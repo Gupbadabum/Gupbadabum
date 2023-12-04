@@ -1,9 +1,9 @@
 ## George Ulguim Pedra
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/george-ulguim-pedra-35843747/"><img height="30" src="imagens/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/George-Pedra-2"><img height="30" src="imagens/researchgate.svg"></a>&nbsp;&nbsp;
-<a href="mailto:gupbadabum@gmail.com"><img height="30" src="imagens/gmail.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/george-ulguim-pedra-35843747/"><img height="30" src="images/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/George-Pedra-2"><img height="30" src="images/researchgate.svg"></a>&nbsp;&nbsp;
+<a href="mailto:gupbadabum@gmail.com"><img height="30" src="images/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
 
