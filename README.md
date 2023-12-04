@@ -11,9 +11,9 @@
 
 ### 🙋🏽‍♂️ Sobre
 
-Me chamo George Ulguim Pedra e sou graduado em Meteorologia pela Universidade Federal de Pelotas e obtive meu mestrado na mesma instituição. Sou um entusiasta do uso do [R](https://cran.r-project.org), bem como outras tecnologias open source tais como [CDO](https://code.mpimet.mpg.de/projects/cdo), [QGIS](https://www.qgis.org/en/site/), [GDAL](https://gdal.org/), entre outras. Atualmente sou analista de dados hidroclimáticos contratado pela Rede Nacional de Ensino e Pesquisa (RNP) e lotado no Instituto Nacional de Pesquisas Espaciais (INPE) na Divisão de Impacto, Adaptação e Vulnerabilidade (DIIAV). 
+Me chamo George Ulguim Pedra e sou graduado em Meteorologia pela Universidade Federal de Pelotas e obtive meu mestrado na mesma instituição. Sou um entusiasta no uso do software [R](https://cran.r-project.org), bem como outras tecnologias open source tais como [CDO](https://code.mpimet.mpg.de/projects/cdo), [QGIS](https://www.qgis.org/en/site/), [GDAL](https://gdal.org/), entre outras. Atualmente sou analista de dados hidroclimáticos contratado pela Rede Nacional de Ensino e Pesquisa (RNP) e lotado no Instituto Nacional de Pesquisas Espaciais (INPE) na Divisão de Impacto, Adaptação e Vulnerabilidade (DIIAV). 
 
-Tenho experiência em Geociências com ênfase em variabilidade climática. No presente momento venho desenvolvendo atividades relacionadas a mudanças climáticas. Atuei como consultor em Meteorologia pela Organização Meteorológica Mundial (OMM) no Instituto Nacional de Meteorologia (INMET) em pesquisa e desenvolvimento relacionado à previsão sazonal de precipitação e temperatura. Também desenvolvi atividades de previsão de tempo junto a AgTech Oráculo Meteorologia.
+Tenho experiência em Geociências com ênfase em variabilidade climática. No presente momento venho desenvolvendo atividades relacionadas à mudanças climáticas. Atuei como consultor em Meteorologia pela Organização Meteorológica Mundial (OMM) no Instituto Nacional de Meteorologia (INMET), com foco em pesquisa e desenvolvimento relacionado à previsão sazonal de precipitação e temperatura. Também desenvolvi atividades de previsão de tempo junto a AgTech Oráculo Meteorologia.
 
 
 ### 🚧 Projetos Atuais
