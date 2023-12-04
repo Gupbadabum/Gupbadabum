@@ -18,7 +18,7 @@ Tenho experiência em Geociências com ênfase em variabilidade climática. No p
 
 ### 🚧 Projetos Atuais
 
-* [AdaptaBrasil MCTI](https://adaptabrasil.mcti.gov.br/): A plataforma colabora para a disseminação do conhecimento por meio da análise de informações cada vez mais integradas e atualizadas sobre o clima e os riscos de impactos no Brasil, além de garantir a acessibilidade dos principais resultados aos tomadores de decisão em todos os níveis, bem como a pesquisadores, sociedade civil e o setor privado.
+* [ADAPTABRASIL MCTI](https://adaptabrasil.mcti.gov.br/): A plataforma colabora para a disseminação do conhecimento por meio da análise de informações cada vez mais integradas e atualizadas sobre o clima e os riscos de impactos no Brasil, além de garantir a acessibilidade dos principais resultados aos tomadores de decisão em todos os níveis, bem como a pesquisadores, sociedade civil e o setor privado.
 
 
 ### 🚧 Projetos Concluídos/Participações
