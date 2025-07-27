@@ -11,9 +11,15 @@
 
 ### 🙋🏽‍♂️ Sobre
 
-Me chamo George Ulguim Pedra e sou graduado em Meteorologia pela Universidade Federal de Pelotas e obtive meu mestrado na mesma instituição. Sou um entusiasta no uso do software [R](https://cran.r-project.org), bem como outras tecnologias open source tais como [CDO](https://code.mpimet.mpg.de/projects/cdo), [QGIS](https://www.qgis.org/en/site/), [GDAL](https://gdal.org/), entre outras. Atualmente sou analista de dados hidroclimáticos contratado pela Rede Nacional de Ensino e Pesquisa (RNP) e lotado no Instituto Nacional de Pesquisas Espaciais (INPE) na Divisão de Impacto, Adaptação e Vulnerabilidade (DIIAV). 
+Me chamo George Ulguim Pedra e sou graduado em Meteorologia pela Universidade Federal de Pelotas e obtive meu mestrado na mesma instituição. Sou um entusiasta no uso do software [R](https://cran.r-project.org), bem como outras tecnologias open source tais como [CDO](https://code.mpimet.mpg.de/projects/cdo), [QGIS](https://www.qgis.org/en/site/), [GDAL](https://gdal.org/), entre outras. Atualmente sou tecnologista no Centro Nacional de Monitoramento e Alertas a Desastres Naturais (CEMADEN), na area de vulnerabilidade a desastres geo-hidro-meteorológicos.
 
-Tenho experiência em Geociências com ênfase em variabilidade climática. No presente momento venho desenvolvendo atividades relacionadas à mudanças climáticas. Atuei como consultor em Meteorologia pela Organização Meteorológica Mundial (OMM) no Instituto Nacional de Meteorologia (INMET), com foco em pesquisa e desenvolvimento relacionado à previsão sazonal de precipitação e temperatura. Também desenvolvi atividades de previsão de tempo junto a AgTech Oráculo Meteorologia.
+analista de dados hidroclimáticos contratado pela Rede Nacional de Ensino e Pesquisa (RNP) e lotado no Instituto Nacional de Pesquisas Espaciais (INPE) na Divisão de Impacto, Adaptação e Vulnerabilidade (DIIAV). 
+
+Profissional com formação em Geociências e experiência consolidada na análise da variabilidade climática, com forte atuação na interface entre ciência do clima, modelagem e aplicações voltadas à gestão de riscos. Desenvolveu atividades como consultor em Meteorologia pela Organização Meteorológica Mundial (OMM), atuando no Instituto Nacional de Meteorologia (INMET), com foco em pesquisa e desenvolvimento de produtos de previsão sazonal de precipitação e temperatura.
+
+Atuou com previsão de tempo direcionada ao setor agrícola na AgTech Oráculo Meteorologia, contribuindo para a disseminação de informações climáticas aplicadas. Participou do Quarto Relatório Nacional do Brasil à Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), por meio da Rede Brasileira de Pesquisas sobre Mudanças Climáticas Globais (REDE CLIMA), integrando a análise de cenários climáticos e seus impactos setoriais.
+
+Mais recentemente, atuou como Analista de Dados Hidroclimáticos na Plataforma AdaptaBrasil MCTI, com foco na construção de indicadores e modelos voltados à avaliação do risco ao impacto climático. Nesse contexto, colaborou no desenvolvimento de um framework integrado que combina informações sobre perigo climático, vulnerabilidade e exposição, com ênfase em setores sensíveis às mudanças do clima.
 
 
 ### 🚧 Projetos Atuais
